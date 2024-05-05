@@ -1,1 +1,3 @@
-# inflean-sping-mvc1
+# [Spring 완전정복코스] 4번째 강의
+- 스프린 MVC 1편 - 백엔드 웹 개발 핵심 기술
+- https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1
