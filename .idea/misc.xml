@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/section02/servlet" />
-    <file type="web" url="file://$PROJECT_DIR$/section03/servlet" />
-    <file type="web" url="file://$PROJECT_DIR$/section04/servlet" />
-    <file type="web" url="file://$PROJECT_DIR$/section05/servlet" />
+    <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
