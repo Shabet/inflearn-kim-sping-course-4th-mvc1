@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e2c5e56-74c1-4384-89f8-ebc42d971357" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,9 @@
     <projectState path="$PROJECT_DIR$/section02/servlet">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/section03/servlet">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/section04/servlet">
       <ProjectState />
     </projectState>
@@ -29,6 +39,15 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+<<<<<<< Updated upstream
+=======
+        <task path="$PROJECT_DIR$/section02.servlet">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+>>>>>>> Stashed changes
         <task path="$PROJECT_DIR$/section02/servlet">
           <activation />
         </task>
@@ -80,13 +99,18 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< Updated upstream
+=======
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+>>>>>>> Stashed changes
     "Spring Boot.ServletApplication (section02).executor": "Run",
     "Spring Boot.ServletApplication (section03).executor": "Run",
+    "Spring Boot.ServletApplication (section04).executor": "Run",
     "Spring Boot.ServletApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/work/inflearn-kim-spring-course-4th-mvc1/section02/servlet",
+    "last_opened_file_path": "/Users/pjy/work/inflearn-kim-spring-course-4th-mvc1/.idea/modules",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,6 +118,7 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
+<<<<<<< Updated upstream
     "project.structure.side.proportion": "0.33563218",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
@@ -144,6 +169,19 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+=======
+    "project.structure.side.proportion": "0.24712643",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServletApplication (section02)">
+>>>>>>> Stashed changes
     <configuration name="ServletApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="section03.servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
@@ -151,8 +189,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServletApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="section04.servlet.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServletApplication (section02)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="hello.section02.servlet.main" />
+      <module name="section02.servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/section02/servlet" />
       <extension name="coverage">
@@ -166,7 +211,7 @@
       </method>
     </configuration>
     <configuration name="ServletApplication (section03)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="hello.section02.servlet.main" />
+      <module name="section02.servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/section03/servlet" />
       <extension name="coverage">
@@ -180,7 +225,7 @@
       </method>
     </configuration>
     <configuration name="ServletApplication (section04)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="hello.section02.servlet.main" />
+      <module name="section02.servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/section04/servlet" />
       <extension name="coverage">
@@ -194,7 +239,7 @@
       </method>
     </configuration>
     <configuration name="ServletApplication (section05)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="hello.section02.servlet.main" />
+      <module name="section02.servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/section05/servlet" />
       <extension name="coverage">
@@ -219,6 +264,7 @@
       <item itemvalue="Gradle.servlet [clean]" />
       <item itemvalue="Spring Boot.ServletApplication" />
       <item itemvalue="Spring Boot.ServletApplication (1)" />
+      <item itemvalue="Spring Boot.ServletApplication (2)" />
       <item itemvalue="Spring Boot.ServletApplication (section03)" />
       <item itemvalue="Spring Boot.ServletApplication (section04)" />
       <item itemvalue="Spring Boot.ServletApplication (section05)" />
@@ -235,8 +281,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
       </set>
     </attachedChunks>
   </component>
@@ -249,11 +295,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718405449807</updated>
       <workItem from="1718405451186" duration="4134000" />
+<<<<<<< Updated upstream
       <workItem from="1718410734759" duration="6134000" />
+=======
+      <workItem from="1718410734759" duration="3163000" />
+      <workItem from="1718422037108" duration="11082000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
